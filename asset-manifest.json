@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mac-n-cheese/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mac-n-cheese/static/js/main.83396a12.chunk.js",
+    "main.js.map": "/mac-n-cheese/static/js/main.83396a12.chunk.js.map",
+    "runtime~main.js": "/mac-n-cheese/static/js/runtime~main.7844973f.js",
+    "runtime~main.js.map": "/mac-n-cheese/static/js/runtime~main.7844973f.js.map",
+    "static/js/2.b41502e9.chunk.js": "/mac-n-cheese/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/mac-n-cheese/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/mac-n-cheese/index.html",
+    "precache-manifest.96f17816999b6474d4e208c3b07f66ab.js": "/mac-n-cheese/precache-manifest.96f17816999b6474d4e208c3b07f66ab.js",
+    "service-worker.js": "/mac-n-cheese/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mac-n-cheese/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mac-n-cheese/static/media/logo.5d5d9eef.svg"
+  }
+}
